@@ -118,14 +118,6 @@ Analytical storytelling
 
 Visualization design
 
-📂 Project Structure
-Global-Terrorism-Analysis/
-│
-├── terrorism_analysis.ipynb
-├── README.md
-├── images/
-└── dataset
-
 🔎 Key Analytical Insights-
 
 1️⃣ Terrorism activity shows clear cyclical patterns, with significant escalation after 2000 in multiple regions.
